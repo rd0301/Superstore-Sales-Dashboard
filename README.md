@@ -1,6 +1,6 @@
 # Superstore-Sales-Dashboard
 Sales and marketing performance dashboard using Superstore Sales dataset.
-# 📊 Superstore Sales & Profit Analysis – Power BI Dashboard
+#  Superstore Sales & Profit Analysis – Power BI Dashboard
  
 ## 🔍 Project Overview
 This project presents an interactive **Power BI dashboard** built using a Superstore dummy dataset to analyze **sales performance, profitability, product demand, and regional trends**.  
@@ -8,7 +8,7 @@ The objective is to transform raw transactional data into **actionable business 
  
 ---
  
-## 🎯 Business Objectives
+##  Business Objectives
 - Understand overall **sales and profit performance**
 - Identify **high-performing and underperforming regions**
 - Analyze **product categories and sub-categories**
@@ -17,7 +17,7 @@ The objective is to transform raw transactional data into **actionable business 
  
 ---
  
-## 📁 Dataset Details
+##  Dataset Details
 - **Source:** Publicly available Superstore dummy dataset
 - **Data Type:** Transactional retail data
 - **Key Dimensions:**
@@ -31,7 +31,7 @@ The objective is to transform raw transactional data into **actionable business 
  
 ---
  
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI Desktop**
 - **Power Query Editor** (Data Cleaning & Transformation)
 - **DAX** (Measures & KPIs)
@@ -39,7 +39,7 @@ The objective is to transform raw transactional data into **actionable business 
  
 ---
  
-## 🔄 Data Preparation (Power Query)
+##  Data Preparation (Power Query)
 Key steps performed:
 - Data type validation and correction
 - Removal of null and inconsistent values
@@ -48,28 +48,28 @@ Key steps performed:
  
 ---
  
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 The dashboard consists of the following key visuals:
  
-### 🔹 KPI Cards
+###  KPI Cards
 - **Total Sales:** 14.92M  
 - **Total Profit:** 1.52M  
 - **Total Quantity Sold:** 215K  
  
-### 🔹 Regional Performance
+###  Regional Performance
 - Bar chart showing **Sales by Region**
 - Map visual displaying **geographical sales distribution**
  
-### 🔹 Product Analysis
+###  Product Analysis
 - Pie chart for **Order Quantity by Product Category**
 - Bar chart for **Profit by Product Category**
 - Scatter/column visual for **Sales by Product Sub-Category**
  
 ---
  
-## 💡 Key Insights
-📄 A detailed **Key Insights & Business Recommendations** document is available here:  
-➡️ `Insights/Superstore_Dashboard_Key_Insights.pdf`
+##  Key Insights
+ A detailed **Key Insights & Business Recommendations** document is available here:  
+`Insights/Superstore_Dashboard_Key_Insights.pdf`
  
 **High-level observations:**
 - West region is the **top revenue contributor**
@@ -80,7 +80,7 @@ The dashboard consists of the following key visuals:
  
 ---
  
-## 📈 Business Recommendations
+##  Business Recommendations
 - Increase focus on **high-margin Technology products**
 - Revisit pricing or cost strategies for **Furniture**
 - Strengthen presence in **high-performing regions**
@@ -88,7 +88,7 @@ The dashboard consists of the following key visuals:
  
 ---
  
-## 📌 Project Use Case
+##  Project Use Case
 This dashboard can be used by:
 - Sales Managers for regional performance tracking
 - Business Analysts for profitability analysis
@@ -97,7 +97,7 @@ This dashboard can be used by:
  
 ---
  
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Add **time-series analysis** (YoY / MoM trends)
 - Introduce **forecasting using DAX**
 - Drill-through pages for product & regional deep dives
@@ -108,7 +108,7 @@ This dashboard can be used by:
 ## 👤 Author
 **Rahul Dixit**  
 Data Analyst | Power BI | SQL | Excel | Analytics  
-📎 GitHub: *()*  
+📎 GitHub: *(https://github.com/rd0301)*  
 📎 LinkedIn: *(http://linkedin.com/in/rahul-dixit-a47778215)*
  
 ---
